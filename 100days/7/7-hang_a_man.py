@@ -73,10 +73,3 @@ while(end_game != 1):
         print("\nYou lost")
 print(stages[error])
 print(f"The word was -> {word}")
-
-
-
-    
-    
-
-
